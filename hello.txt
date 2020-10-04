@@ -1,3 +1,4 @@
 qwweqwqw!
 dsdsdsds
 restore is not defined!
+restore is defined
